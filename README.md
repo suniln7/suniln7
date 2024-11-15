@@ -2,8 +2,6 @@
 
 ## 🚀 **DevOps Engineer | Cloud Enthusiast**
 
----
-
 ## 🛠️ Technologies I Work With
 
 <p align="center">
