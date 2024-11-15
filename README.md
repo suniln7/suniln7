@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sunil Kumar Nooli!
 
-🚀 **DevOps Engineer | Cloud Enthusiast | Kubernetes Expert**
+🚀 **DevOps Engineer | Cloud Enthusiast**
 
 ---
 
